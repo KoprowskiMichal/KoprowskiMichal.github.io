@@ -1,3 +1,9 @@
+Hejka Kamil , moje portfolio masz na plikach index.html albo index3.html.
+
+
+
+
+
 **Zadanie polega na podszlifowaniu aktualnej wiedzy**
 
 Wykonaj stronę o mnie (portfolio), zawierającą:

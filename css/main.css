@@ -1,19 +1,4 @@
-@media (min-width: px) {
-	}
-	
-	@media (max-width: px) and (min-width: px) {
 
-	}
-	
-	@media (max-width: px) and (min-width: px) {
-}
-	
-	@media (max-width: px) and (min-width: px) {
-	
-	}
-	
-	@media (max-width: px) {
-	}
 body
 {
 	margin: 0;
@@ -285,4 +270,41 @@ a.linkcolor
 	margin-right:13vh;
 	margin-left:13vh;
 	
+}
+@media (max-width:800px){
+	.box2-1{
+		display: block;
+	 }
+	 .box2-3{
+	border-right:none;
+	}
+	.box3-1{
+		text-align: center;
+	}
+	.box2-3 p{
+		font-size:0.8rem;
+	}
+	.imgproject{
+		width: 46%;
+	}
+	.imgproject p{
+		font-size:0.8rem;
+	}
+	h1{
+		font-size:1.2rem;
+	}
+	.skills-ikon li{
+		font-size:0.8rem;
+		display: grid;
+	}
+	.footer{
+		width: 900px;
+	}
+	.menu a, i{
+		font-size:0.8rem;
+	}
+	.box1-3
+	{
+		font-size:0.8rem;
+	}
 }
